@@ -22,7 +22,7 @@ function main() {
         let vertices = [];
         let rad = 0.5;
         /* the equilateral triangle is inscribed in a circle of a given radius */
-        let yCoord = rad * Math.sin(Math.PI / 6);
+        let yCoord = rad * Math.sin(Math.PI / 3);
         vertices.push(rad, 0.0);
         vertices.push(rad / 2, yCoord);
         vertices.push(-rad / 2, yCoord);
