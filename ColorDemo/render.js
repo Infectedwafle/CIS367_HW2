@@ -1,3 +1,4 @@
+//Kevin Anderson
 const NUM_CIRCLE_POINTS = 36;
 
 function main() {

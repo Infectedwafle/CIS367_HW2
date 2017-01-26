@@ -1,3 +1,4 @@
+//Kevin Anderson
 function main() {
     let canvas = document.getElementById("my-canvas");
 
